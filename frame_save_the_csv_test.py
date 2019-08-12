@@ -7,7 +7,7 @@ def save():
     tfrecords = info.split(',')
     with open('frame_testInfo.csv','a+') as c:
         for tfrecord in tfrecords:
-            vid_lvl_record = 'gs://youtube8m-ml-us-east1/2/video/test/test%s.tfrecord'%(tfrecord)
+            vid_lvl_record = 'gs://youtube8m-ml-us-east1/2/frame/test/test%s.tfrecord'%(tfrecord)
             for example in tf.python_io.tf_record_iterator(vid_lvl_record):
                 tf_example = tf.train.Example.FromString(example)
                 sub_vid_id = tf_example.features.feature['id'].bytes_list.value[0].decode(encoding='UTF-8')

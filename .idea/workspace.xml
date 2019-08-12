@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4494a6b6-e571-4844-ba5c-d5ad0591acd8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frame_save_the_csv_validate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame_save_the_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/frame_save_the_csv_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame_test_url" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame_train_url" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frame_validate_url" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video_save_the_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/video_save_the_csv_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video_test_url" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video_train_url" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video_validate_url" beforeDir="false" />
-    </list>
+    <list default="true" id="4494a6b6-e571-4844-ba5c-d5ad0591acd8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +46,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="551" />
-    <option name="y" value="82" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="59" />
+    <option name="y" value="93" />
     <option name="width" value="1382" />
     <option name="height" value="709" />
   </component>
@@ -86,6 +75,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -118,15 +108,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565574419830</updated>
-      <workItem from="1565574426997" duration="3149000" />
+      <workItem from="1565574426997" duration="4231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3149000" />
+    <option name="totallyTimeSpent" value="4231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="59" y="93" width="1382" height="709" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
@@ -226,6 +216,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frame_analysis_validate.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

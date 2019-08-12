@@ -9,5 +9,5 @@ if __name__ == "__main__" :
         "format. The (Sequence)Examples are expected to have 'rgb' byte array "
         "sequence feature as well as a 'labels' int64 context feature.")
 
-    with open(os.path.join(FLAGS.save_path, "1.txt"),'a+') as f:
+    with open(os.path.join(FLAGS.save_path, "data/1.txt"),'a+') as f:
         f.write('I am a lobster')
